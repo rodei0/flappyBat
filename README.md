@@ -14,8 +14,8 @@ Versión final de un juego estilo flappy bird, creado con el objetivo de mejorar
 Programación, arte y diseño (proyecto en solitario).
 
 ## Scripts relevantes
-- `PlayerMovement.cs`: movimiento y salto
-- `Spawner.cs`: Generación y lógica de los obstáculos
+- [`PlayerMovement.cs`](https://github.com/rodei0/flappyBirdTry/blob/main/Assets/Scripts/PlayerMovement.cs): movimiento y salto
+- [`Spawner.cs`](https://github.com/rodei0/flappyBirdTry/blob/main/Assets/Scripts/Spawner.cs): Generación y lógica de los obstáculos
 
 ## Jugar
 https://rodei.itch.io/flappy-bat
